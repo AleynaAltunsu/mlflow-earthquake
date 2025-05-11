@@ -1,6 +1,7 @@
 # mlflow-earthquake
 earthquake magnitude prediction system with using mlflow and flask
-train.py is the main project and the other files are additional but not necesary.
+
+#train.py is the main project and the other files are additional but not necesary.
 
 Dataset Description
 The dataset for this project contains earthquake records from Kandilli Observatory, which covers the period from 1915 to 2021. This dataset includes a variety of attributes related to each earthquake occurrence, including:
